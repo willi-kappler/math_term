@@ -1,0 +1,4 @@
+[package]
+name = "math_term"
+version = "0.1.0"
+authors = ["Willi Kappler <grandor@gmx.de>"]
